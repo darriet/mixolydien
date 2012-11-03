@@ -1,0 +1,34 @@
+Ce projet de site internet a été réalisé à l'aide des technologies JSP, JAVA, EL, JSTL, HTML et CSS
+
+Il reprend l'idée d'un site de partage de musiques en ligne.
+
+Actuellement il permet l'écoute de musiques déjà présentes sur le site.
+
+Pour écouter une musique, il suffit de rechercher son nom, son auteur ou l'album dans lequel elle figure
+dans le moteur de recherche.
+
+Une fois la recherche effectuée, un liste de musiques se charge dans le lecteur, il est alors possible
+de passer de l'une à l'autre en cliquant sur les boutons adéquates. 
+
+Une fois un morceau terminé, le morceau suivant prend le relais.
+
+Le lecteur de musique prend en compte le chargement de la musique, il n'est pas possible d'avancer dans 
+le morceau au-delà de ce qui a été chargé.
+
+Les morceaux se chargent au moment de l'écoute.
+
+Il est possible de s'incrire avec le lien "s'inscrire"
+
+L'inscription permet de réaliser sa propre Playliste
+
+Une personne déjà inscrite peut bénéficier du même service en se connectant.
+
+Les playlistes sont conservées en mémoire dans la base de données.
+
+Vous trouverez toutes les indications lié à l'installation dans le fichier MixolydienInstallation.pdf
+
+Le fichier MixolydienArchitecture.pdf donne une brève explication de l'utilité de chaque élément
+du programme.
+
+Les sources du lecteur flash sont également disponible dans le fichier .fla à l'intérieur 
+du dossier 'dossier'
